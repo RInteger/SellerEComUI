@@ -12,7 +12,8 @@ Install the following
 
   npm install -g webpack
   
-4. Go to the folder which has package.json in the Windows console and run the following cmd
+4. Go to the folder which has package.json in the Windows console and run the  cmd - 
+
   npm install
   
 5. After all the packages get installed run the following command
