@@ -2,15 +2,15 @@
 Install the following
 
 1. Node JS  - v8.9.3
-https://nodejs.org/en/
+  https://nodejs.org/en/
 
 2. Then install the Angular CLI globally.
 
-npm install -g @angular/cli
+  npm install -g @angular/cli
 
 3. Install Webpack
 
-npm install -g webpack
+  npm install -g webpack
 
 
 
