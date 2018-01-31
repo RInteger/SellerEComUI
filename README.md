@@ -1,6 +1,17 @@
 # Seller ECom
 Install the following
 
+1. Node JS  - v8.9.3
+https://nodejs.org/en/
+
+2. Then install the Angular CLI globally.
+
+npm install -g @angular/cli
+
+3. Install Webpack
+
+npm install -g webpack
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
