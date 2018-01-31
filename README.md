@@ -11,14 +11,17 @@ Install the following
 3. Install Webpack
 
   npm install -g webpack
-
-
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
-
-## Development server
+  
+4. Go to the folder which has package.json in the Windows console and run the following cmd
+  npm install
+  
+5. After all the packages get installed run the following command
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Now you can navigate to various pages and see the website
+-------------------------End of Environment Set up ------------------------------------------------------------------
+
 
 ## Code scaffolding
 
